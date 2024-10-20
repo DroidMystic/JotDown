@@ -1,0 +1,59 @@
+com.sabirapps.jotdown.app-ui-graphics-release-0 C:\Users\SABIR\.gradle\caches\8.9\transforms\04ce6d6c3cbd054593c1ccd8174d49da\transformed\ui-graphics-release\res
+com.sabirapps.jotdown.app-core-1.13.1-1 C:\Users\SABIR\.gradle\caches\8.9\transforms\06b15fe47ddd138b0c2e007f6b438880\transformed\core-1.13.1\res
+com.sabirapps.jotdown.app-material3-release-2 C:\Users\SABIR\.gradle\caches\8.9\transforms\0bc4a1e23de08fd44cdfc87f8e8be56e\transformed\material3-release\res
+com.sabirapps.jotdown.app-material-ripple-release-3 C:\Users\SABIR\.gradle\caches\8.9\transforms\0bf5c87561329b54061f6817d929259b\transformed\material-ripple-release\res
+com.sabirapps.jotdown.app-ui-text-release-4 C:\Users\SABIR\.gradle\caches\8.9\transforms\0fed357d37065fbaf69a4d956673525f\transformed\ui-text-release\res
+com.sabirapps.jotdown.app-navigation-common-ktx-2.8.3-5 C:\Users\SABIR\.gradle\caches\8.9\transforms\10b0ac4a62cff6bc003324d908a3b84d\transformed\navigation-common-ktx-2.8.3\res
+com.sabirapps.jotdown.app-navigation-runtime-ktx-2.8.3-6 C:\Users\SABIR\.gradle\caches\8.9\transforms\10b4061a9a3f0d4d83380dfab0ca74e2\transformed\navigation-runtime-ktx-2.8.3\res
+com.sabirapps.jotdown.app-activity-compose-1.9.3-7 C:\Users\SABIR\.gradle\caches\8.9\transforms\10ce5243ba0597bef48056452063248b\transformed\activity-compose-1.9.3\res
+com.sabirapps.jotdown.app-runtime-release-8 C:\Users\SABIR\.gradle\caches\8.9\transforms\138e41c59f994bd4c6e0681a38835463\transformed\runtime-release\res
+com.sabirapps.jotdown.app-room-ktx-2.6.1-9 C:\Users\SABIR\.gradle\caches\8.9\transforms\14b9c5e887ca7ae93ee01a12c0e28af9\transformed\room-ktx-2.6.1\res
+com.sabirapps.jotdown.app-runtime-saveable-release-10 C:\Users\SABIR\.gradle\caches\8.9\transforms\18ec647b838280a6f12ac12b1f5cbaee\transformed\runtime-saveable-release\res
+com.sabirapps.jotdown.app-ui-util-release-11 C:\Users\SABIR\.gradle\caches\8.9\transforms\1d163551b9f434e2a78d84559526db9b\transformed\ui-util-release\res
+com.sabirapps.jotdown.app-lifecycle-livedata-core-2.8.6-12 C:\Users\SABIR\.gradle\caches\8.9\transforms\26924a82eebfdfe98284d174e330a57f\transformed\lifecycle-livedata-core-2.8.6\res
+com.sabirapps.jotdown.app-profileinstaller-1.3.1-13 C:\Users\SABIR\.gradle\caches\8.9\transforms\2f790a0653964ec2adf1c703172ec2ba\transformed\profileinstaller-1.3.1\res
+com.sabirapps.jotdown.app-ui-unit-release-14 C:\Users\SABIR\.gradle\caches\8.9\transforms\35fb57910080e02c7e9a7d4b4ac0c93c\transformed\ui-unit-release\res
+com.sabirapps.jotdown.app-material-icons-core-release-15 C:\Users\SABIR\.gradle\caches\8.9\transforms\3619016dbc076bcfe98e14aa03a9fe45\transformed\material-icons-core-release\res
+com.sabirapps.jotdown.app-startup-runtime-1.1.1-16 C:\Users\SABIR\.gradle\caches\8.9\transforms\42ba88f1ff2992150d957f3e1b464bcb\transformed\startup-runtime-1.1.1\res
+com.sabirapps.jotdown.app-foundation-release-17 C:\Users\SABIR\.gradle\caches\8.9\transforms\43f082d997ee191ede945ef680fe0b0c\transformed\foundation-release\res
+com.sabirapps.jotdown.app-annotation-experimental-1.4.1-18 C:\Users\SABIR\.gradle\caches\8.9\transforms\46fda1180576057fa2fa4594a0f50363\transformed\annotation-experimental-1.4.1\res
+com.sabirapps.jotdown.app-ui-tooling-preview-release-19 C:\Users\SABIR\.gradle\caches\8.9\transforms\479f7a66b3d8413e2ebf2eb0e8b586a1\transformed\ui-tooling-preview-release\res
+com.sabirapps.jotdown.app-core-ktx-1.13.1-20 C:\Users\SABIR\.gradle\caches\8.9\transforms\48ab40529d11dbe9643fdd79b02bb696\transformed\core-ktx-1.13.1\res
+com.sabirapps.jotdown.app-graphics-path-1.0.1-21 C:\Users\SABIR\.gradle\caches\8.9\transforms\4ff1ec389e743259455bd7541a4cfcb3\transformed\graphics-path-1.0.1\res
+com.sabirapps.jotdown.app-savedstate-1.2.1-22 C:\Users\SABIR\.gradle\caches\8.9\transforms\55bbb4fc43a237ce8a061cd03fdc60d7\transformed\savedstate-1.2.1\res
+com.sabirapps.jotdown.app-emoji2-1.3.0-23 C:\Users\SABIR\.gradle\caches\8.9\transforms\635c44fcf08a1be57fb7c291970f2e8b\transformed\emoji2-1.3.0\res
+com.sabirapps.jotdown.app-lifecycle-runtime-compose-release-24 C:\Users\SABIR\.gradle\caches\8.9\transforms\6764a3a735cadb5ee8283e5bed0c8955\transformed\lifecycle-runtime-compose-release\res
+com.sabirapps.jotdown.app-core-runtime-2.2.0-25 C:\Users\SABIR\.gradle\caches\8.9\transforms\6c8ffe7fdbcd3783ac2de868355c30e5\transformed\core-runtime-2.2.0\res
+com.sabirapps.jotdown.app-foundation-layout-release-26 C:\Users\SABIR\.gradle\caches\8.9\transforms\6ea46946045b04e1353b05d45938e0a0\transformed\foundation-layout-release\res
+com.sabirapps.jotdown.app-lifecycle-runtime-ktx-release-27 C:\Users\SABIR\.gradle\caches\8.9\transforms\7312b7e8117d12fe41b592dfeceeea13\transformed\lifecycle-runtime-ktx-release\res
+com.sabirapps.jotdown.app-savedstate-ktx-1.2.1-28 C:\Users\SABIR\.gradle\caches\8.9\transforms\7f3b919c30f8eb1111e31ddd6fb08a12\transformed\savedstate-ktx-1.2.1\res
+com.sabirapps.jotdown.app-customview-poolingcontainer-1.0.0-29 C:\Users\SABIR\.gradle\caches\8.9\transforms\84135468211d1d5a8187feb424adc56a\transformed\customview-poolingcontainer-1.0.0\res
+com.sabirapps.jotdown.app-sqlite-2.4.0-30 C:\Users\SABIR\.gradle\caches\8.9\transforms\845bfc9e5056b3cb601da42c8c951a8b\transformed\sqlite-2.4.0\res
+com.sabirapps.jotdown.app-lifecycle-viewmodel-release-31 C:\Users\SABIR\.gradle\caches\8.9\transforms\8aa93e0fb1c1732e06457d216a29d622\transformed\lifecycle-viewmodel-release\res
+com.sabirapps.jotdown.app-material-icons-extended-release-32 C:\Users\SABIR\.gradle\caches\8.9\transforms\8bd50283e3eb639998268bfb2af29592\transformed\material-icons-extended-release\res
+com.sabirapps.jotdown.app-activity-ktx-1.9.3-33 C:\Users\SABIR\.gradle\caches\8.9\transforms\976b78ac5ab966444ded46eb5e5524c2\transformed\activity-ktx-1.9.3\res
+com.sabirapps.jotdown.app-ui-tooling-release-34 C:\Users\SABIR\.gradle\caches\8.9\transforms\9935d50a94812e72480b08fa2f180289\transformed\ui-tooling-release\res
+com.sabirapps.jotdown.app-material-release-35 C:\Users\SABIR\.gradle\caches\8.9\transforms\9bc3fdb6209e22e1d138615ddf35c5bb\transformed\material-release\res
+com.sabirapps.jotdown.app-ui-test-manifest-1.7.4-36 C:\Users\SABIR\.gradle\caches\8.9\transforms\a1be7d6344ac1c464a85f64cc5cfc2d3\transformed\ui-test-manifest-1.7.4\res
+com.sabirapps.jotdown.app-lifecycle-runtime-release-37 C:\Users\SABIR\.gradle\caches\8.9\transforms\a81bc049b54e3f7a4d965a5f285fadb2\transformed\lifecycle-runtime-release\res
+com.sabirapps.jotdown.app-ui-release-38 C:\Users\SABIR\.gradle\caches\8.9\transforms\aa135b50ab0e5276fe4ec59c40d0b030\transformed\ui-release\res
+com.sabirapps.jotdown.app-sqlite-framework-2.4.0-39 C:\Users\SABIR\.gradle\caches\8.9\transforms\ad514e28c52ed040e0d795bfea7fa61b\transformed\sqlite-framework-2.4.0\res
+com.sabirapps.jotdown.app-lifecycle-process-2.8.6-40 C:\Users\SABIR\.gradle\caches\8.9\transforms\b16f0eaab1de3157c59994dda24467c3\transformed\lifecycle-process-2.8.6\res
+com.sabirapps.jotdown.app-navigation-runtime-2.8.3-41 C:\Users\SABIR\.gradle\caches\8.9\transforms\b282c6885c4f27a77a277e2c9db7984b\transformed\navigation-runtime-2.8.3\res
+com.sabirapps.jotdown.app-lifecycle-viewmodel-ktx-2.8.6-42 C:\Users\SABIR\.gradle\caches\8.9\transforms\be3d2b6cfd6280e0d5c1aad198d0d178\transformed\lifecycle-viewmodel-ktx-2.8.6\res
+com.sabirapps.jotdown.app-navigation-compose-2.8.3-43 C:\Users\SABIR\.gradle\caches\8.9\transforms\be712aec3c001e8bba661ec830e1a02c\transformed\navigation-compose-2.8.3\res
+com.sabirapps.jotdown.app-lifecycle-viewmodel-savedstate-2.8.6-44 C:\Users\SABIR\.gradle\caches\8.9\transforms\c3876e6d2a16b0f9dadb13d40b6b9acf\transformed\lifecycle-viewmodel-savedstate-2.8.6\res
+com.sabirapps.jotdown.app-ui-tooling-data-release-45 C:\Users\SABIR\.gradle\caches\8.9\transforms\c851d517140500a2a382051aeaea3f76\transformed\ui-tooling-data-release\res
+com.sabirapps.jotdown.app-ui-geometry-release-46 C:\Users\SABIR\.gradle\caches\8.9\transforms\d438da4122de570cbe4741ec93abc741\transformed\ui-geometry-release\res
+com.sabirapps.jotdown.app-navigation-common-2.8.3-47 C:\Users\SABIR\.gradle\caches\8.9\transforms\e072a4fdf00099adcef84cc1f36952eb\transformed\navigation-common-2.8.3\res
+com.sabirapps.jotdown.app-room-runtime-2.6.1-48 C:\Users\SABIR\.gradle\caches\8.9\transforms\e0b8817ecd8fbe923a96cab711ccc7ca\transformed\room-runtime-2.6.1\res
+com.sabirapps.jotdown.app-animation-release-49 C:\Users\SABIR\.gradle\caches\8.9\transforms\e37f36dcba4f0c24ae71ad34aaf5e975\transformed\animation-release\res
+com.sabirapps.jotdown.app-animation-core-release-50 C:\Users\SABIR\.gradle\caches\8.9\transforms\eb01f013d63781db0f153e03e2cf9075\transformed\animation-core-release\res
+com.sabirapps.jotdown.app-activity-1.9.3-51 C:\Users\SABIR\.gradle\caches\8.9\transforms\f036f51c365a0b6578432f090cf00de4\transformed\activity-1.9.3\res
+com.sabirapps.jotdown.app-lifecycle-viewmodel-compose-release-52 C:\Users\SABIR\.gradle\caches\8.9\transforms\f9ac486b215480d2a88e4baa06e7c57c\transformed\lifecycle-viewmodel-compose-release\res
+com.sabirapps.jotdown.app-resValues-53 D:\New folder\Room_Databese_tutorail-main\Room_Databese_tutorail-main\app\build\generated\res\resValues\debug
+com.sabirapps.jotdown.app-packageDebugResources-54 D:\New folder\Room_Databese_tutorail-main\Room_Databese_tutorail-main\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.sabirapps.jotdown.app-packageDebugResources-55 D:\New folder\Room_Databese_tutorail-main\Room_Databese_tutorail-main\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.sabirapps.jotdown.app-debug-56 D:\New folder\Room_Databese_tutorail-main\Room_Databese_tutorail-main\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.sabirapps.jotdown.app-debug-57 D:\New folder\Room_Databese_tutorail-main\Room_Databese_tutorail-main\app\src\debug\res
+com.sabirapps.jotdown.app-main-58 D:\New folder\Room_Databese_tutorail-main\Room_Databese_tutorail-main\app\src\main\res
