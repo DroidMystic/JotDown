@@ -20,60 +20,60 @@
 15-->[androidx.core:core:1.13.1] C:\Users\SABIR\.gradle\caches\8.9\transforms\06b15fe47ddd138b0c2e007f6b438880\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
 16
 17    <application
-17-->D:\New folder\Room_Databese_tutorail-main\Room_Databese_tutorail-main\app\src\main\AndroidManifest.xml:5:5-27:19
+17-->D:\New folder\NotesApp\JotDown\app\src\main\AndroidManifest.xml:5:5-27:19
 18        android:allowBackup="true"
-18-->D:\New folder\Room_Databese_tutorail-main\Room_Databese_tutorail-main\app\src\main\AndroidManifest.xml:6:9-35
+18-->D:\New folder\NotesApp\JotDown\app\src\main\AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 19-->[androidx.core:core:1.13.1] C:\Users\SABIR\.gradle\caches\8.9\transforms\06b15fe47ddd138b0c2e007f6b438880\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
 20        android:dataExtractionRules="@xml/data_extraction_rules"
-20-->D:\New folder\Room_Databese_tutorail-main\Room_Databese_tutorail-main\app\src\main\AndroidManifest.xml:7:9-65
+20-->D:\New folder\NotesApp\JotDown\app\src\main\AndroidManifest.xml:7:9-65
 21        android:debuggable="true"
 22        android:extractNativeLibs="false"
 23        android:fullBackupContent="@xml/backup_rules"
-23-->D:\New folder\Room_Databese_tutorail-main\Room_Databese_tutorail-main\app\src\main\AndroidManifest.xml:8:9-54
+23-->D:\New folder\NotesApp\JotDown\app\src\main\AndroidManifest.xml:8:9-54
 24        android:icon="@mipmap/ic_launcher"
-24-->D:\New folder\Room_Databese_tutorail-main\Room_Databese_tutorail-main\app\src\main\AndroidManifest.xml:9:9-43
-25        android:label="@string/app_name"
-25-->D:\New folder\Room_Databese_tutorail-main\Room_Databese_tutorail-main\app\src\main\AndroidManifest.xml:10:9-41
+24-->D:\New folder\NotesApp\JotDown\app\src\main\AndroidManifest.xml:9:9-43
+25        android:label="JotDown"
+25-->D:\New folder\NotesApp\JotDown\app\src\main\AndroidManifest.xml:10:9-32
 26        android:roundIcon="@mipmap/ic_launcher_round"
-26-->D:\New folder\Room_Databese_tutorail-main\Room_Databese_tutorail-main\app\src\main\AndroidManifest.xml:11:9-54
+26-->D:\New folder\NotesApp\JotDown\app\src\main\AndroidManifest.xml:11:9-54
 27        android:supportsRtl="true"
-27-->D:\New folder\Room_Databese_tutorail-main\Room_Databese_tutorail-main\app\src\main\AndroidManifest.xml:12:9-35
+27-->D:\New folder\NotesApp\JotDown\app\src\main\AndroidManifest.xml:12:9-35
 28        android:testOnly="true"
-29        android:theme="@style/Theme.RoomDatabase" >
-29-->D:\New folder\Room_Databese_tutorail-main\Room_Databese_tutorail-main\app\src\main\AndroidManifest.xml:13:9-50
+29        android:theme="@style/Theme.JotDown" >
+29-->D:\New folder\NotesApp\JotDown\app\src\main\AndroidManifest.xml:13:9-45
 30        <activity
-30-->D:\New folder\Room_Databese_tutorail-main\Room_Databese_tutorail-main\app\src\main\AndroidManifest.xml:15:9-26:20
+30-->D:\New folder\NotesApp\JotDown\app\src\main\AndroidManifest.xml:15:9-26:20
 31            android:name="com.sabirapps.jotdown.MainActivity"
-31-->D:\New folder\Room_Databese_tutorail-main\Room_Databese_tutorail-main\app\src\main\AndroidManifest.xml:16:13-41
+31-->D:\New folder\NotesApp\JotDown\app\src\main\AndroidManifest.xml:16:13-41
 32            android:exported="true"
-32-->D:\New folder\Room_Databese_tutorail-main\Room_Databese_tutorail-main\app\src\main\AndroidManifest.xml:17:13-36
-33            android:label="@string/app_name"
-33-->D:\New folder\Room_Databese_tutorail-main\Room_Databese_tutorail-main\app\src\main\AndroidManifest.xml:19:13-45
-34            android:theme="@style/Theme.RoomDatabase"
-34-->D:\New folder\Room_Databese_tutorail-main\Room_Databese_tutorail-main\app\src\main\AndroidManifest.xml:20:13-54
+32-->D:\New folder\NotesApp\JotDown\app\src\main\AndroidManifest.xml:17:13-36
+33            android:label="JotDown"
+33-->D:\New folder\NotesApp\JotDown\app\src\main\AndroidManifest.xml:19:13-36
+34            android:theme="@style/Theme.JotDown"
+34-->D:\New folder\NotesApp\JotDown\app\src\main\AndroidManifest.xml:20:13-49
 35            android:windowSoftInputMode="adjustResize" >
-35-->D:\New folder\Room_Databese_tutorail-main\Room_Databese_tutorail-main\app\src\main\AndroidManifest.xml:18:13-55
+35-->D:\New folder\NotesApp\JotDown\app\src\main\AndroidManifest.xml:18:13-55
 36            <intent-filter>
-36-->D:\New folder\Room_Databese_tutorail-main\Room_Databese_tutorail-main\app\src\main\AndroidManifest.xml:21:13-25:29
+36-->D:\New folder\NotesApp\JotDown\app\src\main\AndroidManifest.xml:21:13-25:29
 37                <action android:name="android.intent.action.MAIN" />
-37-->D:\New folder\Room_Databese_tutorail-main\Room_Databese_tutorail-main\app\src\main\AndroidManifest.xml:22:17-69
-37-->D:\New folder\Room_Databese_tutorail-main\Room_Databese_tutorail-main\app\src\main\AndroidManifest.xml:22:25-66
+37-->D:\New folder\NotesApp\JotDown\app\src\main\AndroidManifest.xml:22:17-69
+37-->D:\New folder\NotesApp\JotDown\app\src\main\AndroidManifest.xml:22:25-66
 38
 39                <category android:name="android.intent.category.LAUNCHER" />
-39-->D:\New folder\Room_Databese_tutorail-main\Room_Databese_tutorail-main\app\src\main\AndroidManifest.xml:24:17-77
-39-->D:\New folder\Room_Databese_tutorail-main\Room_Databese_tutorail-main\app\src\main\AndroidManifest.xml:24:27-74
+39-->D:\New folder\NotesApp\JotDown\app\src\main\AndroidManifest.xml:24:17-77
+39-->D:\New folder\NotesApp\JotDown\app\src\main\AndroidManifest.xml:24:27-74
 40            </intent-filter>
 41        </activity>
 42
 43        <service
-43-->[androidx.room:room-runtime:2.6.1] C:\Users\SABIR\.gradle\caches\8.9\transforms\e0b8817ecd8fbe923a96cab711ccc7ca\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+43-->[androidx.room:room-runtime:2.6.0] C:\Users\SABIR\.gradle\caches\8.9\transforms\90eb589243ff1a249a1a5df3fb888878\transformed\room-runtime-2.6.0\AndroidManifest.xml:24:9-28:63
 44            android:name="androidx.room.MultiInstanceInvalidationService"
-44-->[androidx.room:room-runtime:2.6.1] C:\Users\SABIR\.gradle\caches\8.9\transforms\e0b8817ecd8fbe923a96cab711ccc7ca\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+44-->[androidx.room:room-runtime:2.6.0] C:\Users\SABIR\.gradle\caches\8.9\transforms\90eb589243ff1a249a1a5df3fb888878\transformed\room-runtime-2.6.0\AndroidManifest.xml:25:13-74
 45            android:directBootAware="true"
-45-->[androidx.room:room-runtime:2.6.1] C:\Users\SABIR\.gradle\caches\8.9\transforms\e0b8817ecd8fbe923a96cab711ccc7ca\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+45-->[androidx.room:room-runtime:2.6.0] C:\Users\SABIR\.gradle\caches\8.9\transforms\90eb589243ff1a249a1a5df3fb888878\transformed\room-runtime-2.6.0\AndroidManifest.xml:26:13-43
 46            android:exported="false" />
-46-->[androidx.room:room-runtime:2.6.1] C:\Users\SABIR\.gradle\caches\8.9\transforms\e0b8817ecd8fbe923a96cab711ccc7ca\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+46-->[androidx.room:room-runtime:2.6.0] C:\Users\SABIR\.gradle\caches\8.9\transforms\90eb589243ff1a249a1a5df3fb888878\transformed\room-runtime-2.6.0\AndroidManifest.xml:27:13-37
 47
 48        <provider
 48-->[androidx.emoji2:emoji2:1.3.0] C:\Users\SABIR\.gradle\caches\8.9\transforms\635c44fcf08a1be57fb7c291970f2e8b\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20

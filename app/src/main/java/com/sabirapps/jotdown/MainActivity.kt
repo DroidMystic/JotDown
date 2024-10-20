@@ -20,7 +20,7 @@ import com.sabirapps.jotdown.data.NotesDB
 import com.sabirapps.jotdown.presentation.AddNoteScreen
 import com.sabirapps.jotdown.presentation.NotesScreen
 import com.sabirapps.jotdown.presentation.NotesViewModel
-import com.sabirapps.jotdown.ui.theme.RoomDatabaseTheme
+import com.sabirapps.jotdown.ui.theme.JotDownTheme
 
 class MainActivity : ComponentActivity() {
 
@@ -45,7 +45,7 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            RoomDatabaseTheme {
+            JotDownTheme() {
                 Surface(
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
